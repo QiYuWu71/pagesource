@@ -1,0 +1,3 @@
+[submodule "qiyu-blog/themes/almeida-cv"]
+	path = qiyu-blog/themes/almeida-cv
+	url = https://github.com/ineesalmeida/almeida-cv.git
